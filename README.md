@@ -1,3 +1,3 @@
-# test-repo-1
+conflict line
 
 ## Hello, Git  fbd Git
